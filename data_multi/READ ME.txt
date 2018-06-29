@@ -1,0 +1,19 @@
+THIS FILE TELLS THE DETAILS OF THE DATA SETS INCLUDING THE NUMBER OF INSTRANCE, FEATURES AND CLASSES:
+
+acoustic£º #size: 78823; #feature: 50; #classes: 3;
+
+combined£º #size:78823; #feature: 100; #classes: 3;
+
+connect-4£º #size:67557; #feature: 126; #classes: 3;
+
+covtype£º #size:581012; #feature: 54; #classes: 7;
+
+mnist£º #size:60000; #feature: 780; #classes: 10;
+
+poker£º #size:25010; #feature: 10; #classes: 10;
+
+protein£º #size:17766; #feature: 357; #classes: 3;
+
+seismic: #size:78823; #feature: 50; #classes: 3;
+
+shuttle_scale: #size:43500; #feature: 9; #classes: 7;
